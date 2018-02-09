@@ -1,0 +1,30 @@
+body {
+    background-image: url(../images/Panoramic_Houston_skyline.jpg);
+}
+
+.nav-link {
+    color: #000000;
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+.nav-link:hover {
+    color: #777777;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.card p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.btn-dark {
+    font-size: 28px;
+}
+
+.blockquote {
+    margin-top: 5px;
+}
